@@ -1,6 +1,6 @@
 # Chefe em casa 
 
-Projeto desenvolvido no curso do Senac 
+Projeto desenvolvido no curso do Senac
 
 # tecnologia
 - Bootstrap
